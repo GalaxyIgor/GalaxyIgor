@@ -1,5 +1,5 @@
-## Olá! Eu sou Igor, atualemnte estou cursando Eng. Software👋
-## - 🌱 Estudando C++, Kotlin e Java
+## Olá! Eu sou Igor, atualmente estou cursando Eng. Software👋
+<h3> - 🌱 Estudando C++, Kotlin e Java </h3>
 
 <h3>Linguagens que tenho conhecimento </h3>
 
