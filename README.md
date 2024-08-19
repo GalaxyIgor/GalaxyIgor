@@ -1,5 +1,6 @@
 ## Olá! Eu sou Igor, atualmente estou cursando Eng. Software👋
-<h3> - 🌱 Estudando C++, Kotlin e Java </h3>
+<h3>🌱 Estudando C++, Kotlin e Java </h3>
+<h3>🐂 5° Periodo Inatel
 
 <h3>Linguagens que tenho conhecimento </h3>
 
