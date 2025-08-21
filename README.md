@@ -1,4 +1,4 @@
-### Olá! Eu sou Igor 👋  
+## Olá! Eu sou Igor 👋  
 
 🎓 Atualmente cursando **Engenharia de Software** – 6º período - Inatel 
 🌱 Estudando **C++, Kotlin e Java**  
