@@ -31,7 +31,6 @@
 
 ---
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SeuGitHub&show_icons=true&theme=dracula)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuGitHub&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyIgor&layout=compact&theme=neon)
 
 ---
