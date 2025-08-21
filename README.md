@@ -4,7 +4,7 @@
 🌱 Estudando **C++, Kotlin e Java**  
 💻 Apaixonado por desenvolvimento de software e novas tecnologias  
 
----
+--
 
 ### 🚀 Linguagens e Tecnologias que tenho conhecimento:
 
@@ -19,7 +19,7 @@
   <img align="center" alt="GalaxyIgor-PostGreeSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
----
+--
 
 ### 📫 Entre em contato comigo:
   
@@ -29,8 +29,8 @@
   <a href="https://github.com/SeuGitHub"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
----
+--
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyIgor&layout=compact&theme=neon)
 
----
+
