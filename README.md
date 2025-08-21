@@ -8,12 +8,13 @@
   
   <img align="center" alt="GalaxyIgor-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
   <img align="center" alt="GalaxyIgor-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="GalaxyIgor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/java-original.svg">
-  <img align="center" alt="GalaxyIgor-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/javascript-original.svg">
-  <img align="center" alt="GalaxyIgor-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/css-original.svg">
-  <img align="center" alt="GalaxyIgor-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/html-original.svg">
-  <img align="center" alt="GalaxyIgor-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/sql-original.svg">
-          
+  <img align="center" alt="GalaxyIgor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="GalaxyIgor-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="GalaxyIgor-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="GalaxyIgor-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="GalaxyIgor-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="GalaxyIgor-PostGreeSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  
 </div> 
 
 
