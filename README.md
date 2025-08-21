@@ -4,8 +4,6 @@
 🌱 Estudando **C++, Kotlin e Java**  
 💻 Apaixonado por desenvolvimento de software e novas tecnologias  
 
----
-
 ## 🚀 Linguagens e Tecnologias que tenho conhecimento:
 
 <div style="display: inline_block"><br>
@@ -19,8 +17,6 @@
   <img align="center" alt="GalaxyIgor-PostGreeSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
----
-
 ## 📫 Entre em contato comigo:
   
 <div align="center">
@@ -28,8 +24,6 @@
   <a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SeuGitHub"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-
----
 
 <div align="center">
   
